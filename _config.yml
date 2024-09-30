@@ -12,9 +12,9 @@ title                    : "Zoe McGinnis / Site Title"
 title_separator          : "-"
 name                     : &name "Zoe McGinnis"
 description              : &description "personal description"
-url                      : https://mickmcginnis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "zmcginnis" # the subpath of your site, e.g. "/blog"
-repository               : "MickMcginnis/zmcginnis"
+url                      : https://zmcginnis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "MickMcginnis/zmcginnis.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Zoe McGinnis"
   pronouns         : # example: "she/her"  
-  bio              : "I am an engineer and graduate of Olin College of Engineering from Kaua'i, Hawaii. I am currently working as a Data Analyst at Kyruus Health, a healthcare tech startup."
-  location         : "Lihue, Hawaii"
+  bio              : "Short biography for the left-hand sidebar"
+  location         : "Earth"
   employer         : "Kyruus Health"
   uri              : # URL
   email            : "zmcginnis@olin.edu"
