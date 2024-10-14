@@ -20,9 +20,9 @@ Research and Work experience
 ======
 ### Kyruus Health
 Data Analyst | August 2023 - Present
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Created prototype for data pipeline migration and migrated complex customer implementations
+  * Used dbt, Python, SQL, and Jinja2 to implement solutions for new data pipeline
+  * Trained coworkers on SQL and dbt and created documentation for new processes
 
 ### OCCaM Lab @ Olin College of Engineering
 Research in the lab of [Paul Ruvolo, Ph.D.](http://occam.olin.edu/) | Summer 2023
