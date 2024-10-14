@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Zoë McGinnis"
 description              : &description "personal description"
 url                      : https://mickmcginnis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "zmcginnis" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/zmcginnis" # the subpath of your site, e.g. "/blog"
 repository               : "MickMcginnis.github.io/zmcginnis"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   name             : "Zoë McGinnis"
   pronouns         : # example: "she/her"  
   bio              : "I am an engineer and graduate of Olin College of Engineering from Kaua'i, Hawaii. I am currently working as a Data Analyst at Kyruus Health, a healthcare tech startup."
-  location         : "Earth"
+  location         : "Kaua'i"
   employer         : "Kyruus Health"
   uri              : # URL
   email            : "zmcginnis@olin.edu"
