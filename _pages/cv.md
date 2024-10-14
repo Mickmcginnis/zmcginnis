@@ -25,16 +25,30 @@ Data Analyst | August 2023 - Present
   * Supervisor: The Users
 
 ### Summer Research: OCCAM Lab @ Olin College of Engineering
-Research in the lab of Paul Ruvolo, Ph.D. | Summer 2023
+Research in the lab of [Paul Ruvolo, Ph.D.](http://occam.olin.edu/) | Summer 2023
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
 ### Nugent Lab @ Olin College of Engineering
-Research in the lab of Carrie Nugent, Ph.D. | Fall 2022 - Spring 2023
+Research in the lab of [Carrie Nugent, Ph.D.](https://www.crnugent.com/research) | Fall 2022 - Spring 2023
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
+
+### Simplisafe, Inc.
+AI Research Intern | Summer 2022
+* Tested and compared several deep learning object detectors and text detectors
+* Integrated best performing object and text detectors into existing codebase using AWS S3 and EC2
+* Fine tuned a model to detect logos in images
+* Investigated live performance of object detectors on a small computing device
+
+### The MITRE Corporation
+Advanced Technologies Intern | June 2020 - November 2021
+* Created client-facing information dashboard to showcase data using Flask, MySQL, AWS S3, and Python
+* Trained a Tensorflow model to categorize images with over 90% accuracy
+* Trained a second Tensorflow model to recognize screenshots from apps with over 70% accuracy
+* Integrated Tensorflow models to automatically update website dashboard with newly classified images
 
 Papers
 ======
