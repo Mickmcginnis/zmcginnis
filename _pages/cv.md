@@ -19,19 +19,19 @@ __GPA: 3.73/4.0__
 Research and Work experience
 ======
 ### Kyruus Health
-___Data Analyst | August 2023 - Present___
+Data Analyst | August 2023 - Present
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
 ### Summer Research: OCCAM Lab @ Olin College of Engineering
-___Research in the lab of Paul Ruvolo, Ph.D. | Summer 2023___
+Research in the lab of Paul Ruvolo, Ph.D. | Summer 2023
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
 ## Nugent Lab @ Olin College of Engineering
-_Research in the lab of Carrie Nugent, Ph.D. | Fall 2022 - Spring 2023_
+Research in the lab of Carrie Nugent, Ph.D. | Fall 2022 - Spring 2023
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
