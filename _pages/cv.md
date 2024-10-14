@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 ### B.S. in Engineering: Computing, Olin College of Engineering, 2023
-__GPA: 3.73/4.0__
+GPA: 3.73 / 4.0
   * Four-year 50% tuition Olin Merit Scholarship recipient
   * Xilinx Empowering Women in Technology $5,000 Merit Scholarship recipient
 
@@ -36,7 +36,7 @@ Research in the lab of [Carrie Nugent, Ph.D.](https://www.crnugent.com/research)
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-### Simplisafe, Inc.
+### Simplisafe
 AI Research Intern | Summer 2022
 * Tested and compared several deep learning object detectors and text detectors
 * Integrated best performing object and text detectors into existing codebase using AWS S3 and EC2
