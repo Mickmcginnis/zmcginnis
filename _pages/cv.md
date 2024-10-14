@@ -12,14 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. in Engineering: Computing, Olin College of Engineering, 2023
-  * __GPA: 3.73/4.0__
+__GPA: 3.73/4.0__
   * Four-year 50% tuition Olin Merit Scholarship recipient
   * Xilinx Empowering Women in Technology $5,000 Merit Scholarship recipient
 
 Research and Work experience
 ======
 ### Kyruus Health
-___Data Analyst, August 2023 - Present___
+Data Analyst, August 2023 - Present
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
@@ -30,7 +30,7 @@ ___Researcher, Summer 2023___
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-### Asteroid and Comet Discovery Research @ Olin College of Engineering
+### Nugent Lab @ Olin College of Engineering
 ___Student Researcher, Fall 2022 - Spring 2023___
   * Github University
   * Duties included: Tagging issues
