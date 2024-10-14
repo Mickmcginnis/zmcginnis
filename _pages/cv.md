@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Engineering: Computing, Olin College of Engineering, 2023
+  * __GPA: 3.73/4.0__
+  * Four-year 50% tuition Olin Merit Scholarship recipient
+  * Xilinx Empowering Women in Technology $5,000 Merit Scholarship recipient
 
-Work experience
+Research and Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
+### Kyruus Health
+___Data Analyst, August 2023 - Present___
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
+### Summer Research: OCCAM Lab @ Olin College of Engineering
+___Researcher, Summer 2023___
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
+### Asteroid and Comet Discovery Research @ Olin College of Engineering
+___Student Researcher, Fall 2022 - Spring 2023___
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+  * Pytorch
+  * Numpy
+  * Pandas
+* SQL
+* OCaml
+* Presentations
 
 Papers
 ======
@@ -52,7 +57,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
