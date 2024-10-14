@@ -24,11 +24,11 @@ Data Analyst | August 2023 - Present
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-### OCCAM Lab @ Olin College of Engineering
+### OCCaM Lab @ Olin College of Engineering
 Research in the lab of [Paul Ruvolo, Ph.D.](http://occam.olin.edu/) | Summer 2023
-  * Research on 
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Research on image-based localization techniques for an app to enhance indoor navigation for blind and low-vision users
+  * Used Niantic's [Accelerated Coordinate Encoding (ACE)](https://nianticlabs.github.io/ace/) model with Pytorch, Python, Apple ARKit, and Swift to implement a localization solution to replace [Google Cloud Anchors](https://developers.google.com/ar/develop/cloud-anchors) for accessibility iPhone app
+  * Research and codesign with blind and low-vision users
 
 ### Nugent Lab @ Olin College of Engineering
 Research in the lab of [Carrie Nugent, Ph.D.](https://www.crnugent.com/research) | Fall 2022 - Spring 2023
