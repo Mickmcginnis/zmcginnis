@@ -31,7 +31,7 @@ ___Research in the lab of Paul Ruvolo, Ph.D. | Summer 2023___
   * Supervisor: Professor Hub
 
 ## Nugent Lab @ Olin College of Engineering
-___Research in the lab of Carrie Nugent, Ph.D. | Fall 2022 - Spring 2023___
+_Research in the lab of Carrie Nugent, Ph.D. | Fall 2022 - Spring 2023_
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
