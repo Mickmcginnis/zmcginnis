@@ -1,8 +1,8 @@
 ---
 title: "An Analysis of Moon Crater Diameters in Relation to the Late Heavy Bombardment Theory"
-collection: publications
+collection: papers
 category: manuscripts
-permalink: /publication/An-Analysis-of-Moon-Crater-Diameters-in-Relation-to-the-Late-Heavy-Bombardment-Theory
+permalink: /paper/An-Analysis-of-Moon-Crater-Diameters-in-Relation-to-the-Late-Heavy-Bombardment-Theory
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2022-12-04
 # venue: 'Journal 1'
