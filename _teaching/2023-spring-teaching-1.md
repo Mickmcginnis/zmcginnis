@@ -1,9 +1,9 @@
 ---
-title: "Instructor: Advanced Algorithms"
+title: "Instructor: Advanced Algorithms (ENGR3599A)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Olin College of Engineering"
+type: "Undergraduate Course"
+permalink: /teaching/2023-spring-teaching-1
+venue: "Olin College of Engineering, Computing"
 date: 2023-01-01
 location: "Needham, MA"
 ---
