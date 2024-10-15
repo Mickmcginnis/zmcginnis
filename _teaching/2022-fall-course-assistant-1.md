@@ -2,7 +2,7 @@
 title: "Data Structures and Alogithms (ENGR3515)"
 collection: teaching
 type: "CA-ship"
-permalink: /teaching/2022-fall-course-assistant-1
+permalink:
 venue: "Olin College of Engineering, Computing"
 date: 2022-09-01
 location: "Needham, MA"
