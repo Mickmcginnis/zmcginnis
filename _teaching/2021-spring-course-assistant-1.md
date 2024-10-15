@@ -1,7 +1,7 @@
 ---
 title: "Foundations of Computer Science (ENGR3520)"
 collection: teaching
-type: "CA-ship"
+type: "Course Assistant"
 permalink: /teaching/2021-spring-course-assistant-1
 venue: "Olin College of Engineering, Computing"
 date: 2021-01-01

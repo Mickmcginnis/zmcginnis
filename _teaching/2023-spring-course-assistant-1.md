@@ -1,7 +1,7 @@
 ---
 title: "K-12 Outreach: Math and Engineering for Everyone (CIE2223M)"
 collection: teaching
-type: "CA-ship"
+type: "Course Assistant"
 permalink: /teaching/2023-spring-course-assistant-1
 venue: "Olin College of Engineering, Engineering and Design"
 date: 2023-01-01

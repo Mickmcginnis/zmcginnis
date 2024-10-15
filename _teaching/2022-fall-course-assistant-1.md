@@ -1,7 +1,7 @@
 ---
 title: "Data Structures and Algorithms (ENGR3515)"
 collection: teaching
-type: "CA-ship"
+type: "Course Assistant"
 permalink:
 venue: "Olin College of Engineering, Computing"
 date: 2022-09-01
