@@ -8,7 +8,7 @@ date: 2023-01-01
 location: "Needham, MA"
 ---
 
-In Spring 2023, I was a course assistant for K-12 Outreach: Math and Engineering for Everyone ([CIE2223M](https://www.olin.edu/node/6206)), a four- to eight-credit course offered by Sarah Spence Adams, Ph.D. at Olin College of Engineering. 
+In Spring 2023, I was a course assistant for [K-12 Outreach: Math and Engineering for Everyone (CIE2223M)](https://www.olin.edu/articles/story-new-course-focuses-k-12-outreach-community-impact), a four- to eight-credit course offered by [Sarah Spence Adams, Ph.D.](https://www.olin.edu/bios/sarah-s-adams) at Olin College of Engineering.
 
 Further Information
 ======
